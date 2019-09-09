@@ -7,8 +7,9 @@ If you have any problem about Ultiledger, welcome to raise issue here . We will 
  
 ## 2.在哪里可以买极限币(ULT)?如何联系社区,官网
 
-  交易所:www.coinex.com(需要翻墙)
-  www.cointiger.one(app也在这个网址)
+  交易所:
+  www.coinex.com (需要翻墙)
+  www.cointiger.one (app也在这个网址)
   瑞波PC钱包:先加qq群:703611153下载钱包程序, 参考教程:http://jc.ripplefox.com/#/ult 进行交易
   utoken去中心化钱包: 下载和使用教程参考 https://tutorial.utoken.cash/#!/
   
