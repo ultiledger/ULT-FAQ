@@ -10,6 +10,7 @@ If you have any problem about Ultiledger, welcome to raise issue here . We will 
   交易所:
   www.coinex.com (需要翻墙)
   www.cointiger.one (app也在这个网址)
+  www.bitmart.io
   瑞波PC钱包:先加qq群:703611153下载钱包程序, 参考教程:http://jc.ripplefox.com/#/ult 进行交易
   utoken去中心化钱包: 下载和使用教程参考 https://tutorial.utoken.cash/#!/
   
@@ -30,6 +31,10 @@ If you have any problem about Ultiledger, welcome to raise issue here . We will 
 ## 5.流通量是多少？可以增发吗？
 
 目前流通量为6.3亿,占比14%左右，官网每月都会更新分发情况。总量45亿，不可以增发。
+
+## 6. 为什么要使用区块链，而不是用中心化的系统来做自金融？
+
+传统中心化系统主要使用中心化数据库或云端中心化的账本模式。在中心化账本模式下，无论是核心企业，还是渠道商、供应商等，因为他们自身都是链条上的相关利益方，当账本信息不利于自身时，他们都有动机去很选择篡改账本，导致人们对账本信息的信任程度降低。区块链的分布式记账、公共数据开放性、系统透明性，以及区块链公认的不可篡改性，都有力地保证了数据的安全。
 
 ## 7.极限币和比特币有什么区别？
 
