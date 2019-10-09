@@ -17,7 +17,8 @@
   
   Ultiledger qq官方群:829852556
   Ultiledger客服微信:Ultiledger_io
-  官网:http://ultiledger.io
+  官网：https://ultiledger.io
+  论坛：https://ultbbs.com
   
 ## 3. ULT怎么保管,都有哪些钱包兼容ult
 
