@@ -258,3 +258,8 @@ DEX就是去中心化交易所。它是一个基于区块链的交易所，用�
 3. 出版了《Stellar区块链原理与实践》。
 4. 翻译了《IPFS白皮书》
 5. 在IEEE发表的论文《A Scalable and Extensible Blockchain Architecture》, https://ieeexplore.ieee.org/document/8637526/authors#authors
+
+## 53. 请问白皮书中主链与子链的架构与未来主链与联盟链的架构有何不同之处？
+
+主子链架构的目的是实现整体性能的可扩展性和灵活性，这个可以查阅我们在IEEE发表的论文《A Scalable and Extensible Blockchain Architecture》。在Ultiledger的生态中，由于企业需求的隐私性，目前大多数落地的企业是以联盟链或者私有链的的形式存在，而当这些企业愿意将自己的信息以某种方式上链，那么这些联盟链则可以以Ultiledger子链的形式存在。通过Ultiledger提供的跨链功能，实现子链（以前的联盟链）到主链信息和资产的交互，甚至是子链和子链信息资产的交互。
+主链+子链与主链+联盟链都是相通的，架构无异处，只是使用场景不同。
