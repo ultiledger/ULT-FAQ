@@ -256,8 +256,9 @@ DEX就是去中心化交易所。它是一个基于区块链的交易所，用�
 1. 团队成员参与了中国工信部《中国区块链技术和应用发展白皮书》(2016) 
 2. 中国分布式总账基础协议联盟《ChinaLedger白皮书》的编写。
 3. 出版了《Stellar区块链原理与实践》。
-4. 翻译了《IPFS白皮书》
-5. 在IEEE发表的论文《A Scalable and Extensible Blockchain Architecture》, https://ieeexplore.ieee.org/document/8637526/authors#authors
+4. 受邀参加2018年中国区块链技术大会《A Scalable Blockchain Architecture Model》
+5. 翻译了《IPFS白皮书》
+6. 在IEEE发表的论文《A Scalable and Extensible Blockchain Architecture》, https://ieeexplore.ieee.org/document/8637526/authors#authors
 
 ## 53. 请问白皮书中主链与子链的架构与未来主链与联盟链的架构有何不同之处？
 
